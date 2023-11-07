@@ -1,5 +1,19 @@
 # Trivia API
 
+## Table of contents
+
+- [Setting up the Backend](#setting-up-the-backend)
+  - [Install Dependencies](#install-dependencies)
+  - [Set up the Database](#set-up-the-database)
+  - [Run the Server](#run-the-server)
+- [Testing](#testing)
+- [Local Development](#local-development)
+- [API Documentation](#api-documentation)
+  - [Base URL](#base-url)
+  - [Error](#error)
+  - [Endpoints](#endpoints)
+
+
 ## Setting up the Backend
 
 ### Install Dependencies
