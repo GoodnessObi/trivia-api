@@ -9,13 +9,12 @@
 - [Testing](#testing)
 - [Local Development](#local-development)
   - [Pre-requisites](#pre-requisites)
-  - [Step 1: Start/Stop the PostgreSQL server](#step-1-start/stop-the-postgreSQL-server)
+  - [Step 1: Start/Stop the PostgreSQL server](#step-1-startstop-the-postgresql-server)
   - [Step 2 - Create and Populate the database](#step-2-create-and-populate-the-database)
 - [API Documentation](#api-documentation)
   - [Base URL](#base-url)
   - [Error](#error)
   - [Endpoints](#endpoints)
-
 
 ## Setting up the Backend
 
