@@ -141,7 +141,7 @@ source venv/bin/activate
 pip3 install -r requirements.txt
 ```
 
-### Step 0: Start/Stop the PostgreSQL server
+### Step 1 - Start/Stop the PostgreSQL server
 
 Mac users can follow the commands below:
 
@@ -163,7 +163,7 @@ sudo service postgresql start
 sudo service postgresql stop
 ```
 
-### Step 1 - Create and Populate the database
+### Step 2 - Create and Populate the database
 
 1. **Create the database and a user**<br>
    In your terminal, navigate to the _/trivia-app/backend/_ directory, and run the following:
